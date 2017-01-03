@@ -1,0 +1,25 @@
+.va_table th {
+
+  background-color: #ECE8E8;
+  color: black;
+  border: 1px solid;
+  border-color:#ECE8E8;
+  }
+
+  .va_table td {
+
+    border: 1px solid;
+    border-color:#ECE8E8;
+    color: black;
+    font-size: 85%;;
+    }
+
+    .va_space_small {
+      margin-top: 20px;
+      margin-bottom: 15px;
+      align:center;
+    }
+    .va_space_big {
+      margin-bottom: 30px;
+      align:center;
+    }
